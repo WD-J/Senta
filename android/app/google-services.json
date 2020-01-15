@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "170539665940",
+    "firebase_url": "https://senta-a10d2.firebaseio.com",
+    "project_id": "senta-a10d2",
+    "storage_bucket": "senta-a10d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170539665940:android:c4b7dd5800d085ef",
+        "android_client_info": {
+          "package_name": "atnes.senta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170539665940-3bl9p0hhh31mqfoldjp737211pj3qvf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvJMbUCG7YHKqfJC_5Ttq81r7oUX9DaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170539665940-3bl9p0hhh31mqfoldjp737211pj3qvf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170539665940:android:d4dd29a5b1220527",
+        "android_client_info": {
+          "package_name": "doing.dad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170539665940-3bl9p0hhh31mqfoldjp737211pj3qvf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvJMbUCG7YHKqfJC_5Ttq81r7oUX9DaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170539665940-3bl9p0hhh31mqfoldjp737211pj3qvf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
